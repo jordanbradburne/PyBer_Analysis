@@ -9,8 +9,14 @@ That information that I found will now help me with this new assignment. Using m
 This analysis will help PyBer improve access to the ride-sharing services and determine affordabilty for underdeserved neighbors.
 
 ## Results: 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+* Rural cities had the least amount of drivers (78), rides (125)	and total fares ($4,327.93).
+* Urban cities had the most amount of drivers (2405), rides (1625) and total fares ($39,854.38).
+* Suburban cities were in the middle having the 2nd most drivers (490), rides (625) and total fares ($19,356.33).
+
+* Rural cities havd the highest average fare per ride ($34.62) and fare per driver ($55.49).
+* Urban cities had the lowest average of fare per ride ($24.53) and fare per driver ($16.57).
+
+<img width="510" alt="Screen Shot 2021-07-25 at 8 53 37 PM" src="https://user-images.githubusercontent.com/85847344/126930879-d21df2b7-a84f-452c-a1d5-b2973cf2d0d1.png">
 
 ## Summary: 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
