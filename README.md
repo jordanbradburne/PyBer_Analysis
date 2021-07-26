@@ -19,5 +19,12 @@ This analysis will help PyBer improve access to the ride-sharing services and de
 <img width="510" alt="Screen Shot 2021-07-25 at 8 53 37 PM" src="https://user-images.githubusercontent.com/85847344/126930879-d21df2b7-a84f-452c-a1d5-b2973cf2d0d1.png">
 
 ## Summary: 
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.
+Based on the results, I would reccomend at least 3 of my ideas to the CEO for addressing any disparities among the city types.
+
+Total Fare by city type chart between January & April of 2019
+<img width="822" alt="Screen Shot 2021-07-25 at 9 13 26 PM" src="https://user-images.githubusercontent.com/85847344/126932247-ecb9b771-1682-4a5c-8071-af0b0dcc05b7.png">
+
+1. Make sure the drivers are assigned to the city type they tipically work in or live near.
+2. In Urban cities, the prices need to be upped  per mile because the trips are usually shorter and the drivers won't recieve as high of a tip (due to the distance).
+3. In Rural cities, the prices should be decreased per mile because of the opposite reason for Urban cities to up the prices. Rural cities tend to have longer rides, and to make it more affordable for someone to tip higher and use the app for longer distances, the price per mile should decrease. This could be a great solution to increase the amount of rides.
+4. Depending on how many riders there are in the city during certain months, make charge increases or decreases.
